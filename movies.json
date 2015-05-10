@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Cinderella",
+        "story": "When Cinderella's cruel stepmother prevents her from attending the Royal Ball, she gets some unexpected help from the lovable mice Gus and Jaq, and from her Fairy Godmother.",
+        "poster_image_url": "images/cinderella.jpg",
+        "trailer_youtube_url": "https://www.youtube.com/watch?v=6Pt1_VvVZVY",
+        "duration": "60",
+        "genre": "Fantasy",
+        "year": "1950"
+    },
+    {
+        "title": "Wolf of Wall Street",
+        "story": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+        "poster_image_url": "images/wolf.jpg",
+        "trailer_youtube_url": "https://www.youtube.com/watch?v=BzpIB5TJ7LI",
+        "duration": "120",
+        "genre": "Drama Romance",
+        "year": "2014"
+    },
+    {
+        "title": "50 Shades of Grey",
+        "story": "Literature student Anastasia Steele's life changes forever when she meets handsome, yet tormented, billionaire Christian Grey.",
+        "poster_image_url": "images/grey.jpg",
+        "trailer_youtube_url": "https://www.youtube.com/watch?v=iopcfR1vI5I",
+        "duration": "90",
+        "genre": "Romance",
+        "year": "2015"
+    },
+    {
+        "title": "Taken",
+        "story": "A retired CIA agent travels across Europe and relies on his old skills to save his estranged daughter, who has been kidnapped while on a trip to Paris.",
+        "poster_image_url": "images/taken.jpg",
+        "trailer_youtube_url": "https://www.youtube.com/watch?v=EoKGNch3Uto",
+        "duration": "112",
+        "genre": "Thriller",
+        "year": "2008"
+    },
+    {
+        "title": "Home Alone",
+        "story": "An 8-year old troublemaker must protect his home from a pair of burglars when he is accidentally left home alone by his family during Christmas vacation.",
+        "poster_image_url": "images/home-alone.jpg",
+        "trailer_youtube_url": "https://www.youtube.com/watch?v=GTo6yvJ5SCM",
+        "duration": "98",
+        "genre": "Comedy",
+        "year": "1990"
+    },
+    {
+        "title": "The Dark Knight",
+        "story": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice.",
+        "poster_image_url": "images/batman.jpg",
+        "trailer_youtube_url": "https://www.youtube.com/watch?v=u843KNE-exo",
+        "duration": "168",
+        "genre": "Action",
+        "year": "2008"
+    }
+]
